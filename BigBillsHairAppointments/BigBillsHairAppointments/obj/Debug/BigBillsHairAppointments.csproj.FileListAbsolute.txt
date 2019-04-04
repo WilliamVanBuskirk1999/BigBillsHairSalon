@@ -1,0 +1,12 @@
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.csprojResolveAssemblyReference.cache
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.Splash.resources
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.Login.resources
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.Properties.Resources.resources
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.csproj.GenerateResource.Cache
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.csproj.CoreCompileInputs.cache
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\bin\Debug\BigBillsHairAppointments.exe.config
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\bin\Debug\BigBillsHairAppointments.exe
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\bin\Debug\BigBillsHairAppointments.pdb
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.exe
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.pdb
+D:\Classes\Semester 2 Year 1\Database Programming\BigBillsHairAppointments\BigBillsHairAppointments\obj\Debug\BigBillsHairAppointments.Mainform.resources
